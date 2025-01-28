@@ -1,0 +1,14 @@
+C:\Users\24842313\Desktop\c-sharp-experiments\bin\Debug\net8.0\c-sharp-experiments.exe
+C:\Users\24842313\Desktop\c-sharp-experiments\bin\Debug\net8.0\c-sharp-experiments.deps.json
+C:\Users\24842313\Desktop\c-sharp-experiments\bin\Debug\net8.0\c-sharp-experiments.runtimeconfig.json
+C:\Users\24842313\Desktop\c-sharp-experiments\bin\Debug\net8.0\c-sharp-experiments.dll
+C:\Users\24842313\Desktop\c-sharp-experiments\bin\Debug\net8.0\c-sharp-experiments.pdb
+C:\Users\24842313\Desktop\c-sharp-experiments\obj\Debug\net8.0\c-sharp-experiments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24842313\Desktop\c-sharp-experiments\obj\Debug\net8.0\c-sharp-experiments.AssemblyInfoInputs.cache
+C:\Users\24842313\Desktop\c-sharp-experiments\obj\Debug\net8.0\c-sharp-experiments.AssemblyInfo.cs
+C:\Users\24842313\Desktop\c-sharp-experiments\obj\Debug\net8.0\c-sharp-experiments.csproj.CoreCompileInputs.cache
+C:\Users\24842313\Desktop\c-sharp-experiments\obj\Debug\net8.0\c-sharp-experiments.dll
+C:\Users\24842313\Desktop\c-sharp-experiments\obj\Debug\net8.0\refint\c-sharp-experiments.dll
+C:\Users\24842313\Desktop\c-sharp-experiments\obj\Debug\net8.0\c-sharp-experiments.pdb
+C:\Users\24842313\Desktop\c-sharp-experiments\obj\Debug\net8.0\c-sharp-experiments.genruntimeconfig.cache
+C:\Users\24842313\Desktop\c-sharp-experiments\obj\Debug\net8.0\ref\c-sharp-experiments.dll
